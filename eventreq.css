@@ -1,0 +1,35 @@
+/* 
+    Document   : booking
+    Created on : Oct 3, 2022, 5:50:30 PM
+    Author     : harsh
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+
+
+          
+    
+               
+
+form{
+    background-color:rgba(0,0,0,0.1);
+    color:#FFFFFF;
+    margin:2% 30% 0% 30%;
+    padding:3%;
+}
+h1{
+    color:#000000;
+    
+}
+h4{
+    color:#ffffff;
+    
+}
+label{
+    color:#ffffff;
+    font-size:20px;
+    font-family:sans-serif;
+}
+
